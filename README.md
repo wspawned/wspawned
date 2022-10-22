@@ -27,8 +27,8 @@ I have been improving my software developing skills since mid of 2022. I have co
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wspawned&layout=compact&theme=dark)](https://github.com/wspawned/github-readme-stats)
 
 <p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=wspawned&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width = 400 height=100% align=left>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=wspawned&theme=dark" width = 400 height=100% align=right>
+  <img src = "https://github-readme-stats.vercel.app/api?username=wspawned&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width = 48% height=100% align=left>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=wspawned&theme=dark" width = 48% height=100% align=right>
 </p>
 
 
