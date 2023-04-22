@@ -1,9 +1,8 @@
 <h1>İrşad TÜRKER</h1>
 
-Motivated junior web developer eager to improve software development skills, particularly on front-end web development.
+As a software developer, I'm passionate about improving my software development skills, especially in front-end web development. I'm always eager to adopt new technologies and tools, and I love working on challenging software projects. Collaboration is essential to me, and I'm a dedicated team player who takes ownership of my role to ensure project success. In my free time, I work on personal projects, attend web development meetups, and take online courses to enhance my knowledge and skills.
 
-
-I have been improving my software developing skills since mid of 2022. I have completed several React projects and I am learning Next.js. You can check my deployed applications from my project repositories.
+You can check my deployed applications from my project repositories.
 
 
 ![](https://komarev.com/ghpvc/?username=wspawned&color=green)
